@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cin.Ufpe.Estacionamento/1.0.0": {
+        "runtime": {
+          "Cin.Ufpe.Estacionamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cin.Ufpe.Estacionamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
